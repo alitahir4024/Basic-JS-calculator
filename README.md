@@ -17,4 +17,4 @@ In this project a basic calculator is developed using pure and modern HTML,CSS,J
 
 ## Project Preview:
 
-(https://ali-tahir4024.github.io/Basic-JS-calculator/.).
+[Basic JS Calculator](https://ali-tahir4024.github.io/Basic-JS-calculator/)
